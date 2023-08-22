@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/adityaatAcko/maths/math_package/internal/operations"
+	"github.com/adityaatAcko/maths/internal/operations"
 )
 
 
