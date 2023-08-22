@@ -1,3 +1,3 @@
-module github.com/adityaatAcko/maths/math_package
+module github.com/adityaatAcko/maths
 
 go 1.20
